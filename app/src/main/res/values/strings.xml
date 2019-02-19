@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Music_Center</string>
+    <string name="CATEGORIAS">CATEGORIAS</string>
+    <string name="Sopro">Sopro</string>
+    <string name="Cordas">Cordas</string>
+    <string name="Teclas">Teclas</string>
+    <string name="Mostrar">MOSTRAR</string>
+    <string name="sua_opcao">Sua_opcao</string>
+    <string name="todo">todo</string>
+    <string name="escaleta_32_teclas">escaleta_32_teclas</string>
+    <string name="acordeon_120_baixos_acm12007">acordeon 120 baixos acm12007</string>
+    <string name="piano_arius_ydp_103r">piano_arius_ydp_103r</string>
+</resources>
